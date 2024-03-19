@@ -100,13 +100,14 @@ else:
 ## OUTPUT:
 
 ### Policy 1:
-![image](https://github.com/kanishka2305/rl-policy-evaluation/assets/113497357/1ba01fed-5e5d-416e-b85f-691bb3118636)
+![image](https://github.com/kanishka2305/rl-policy-evaluation/assets/113497357/6bcff37e-0f25-43c4-b5ff-78ce08796790)
 
 ### Policy 2:
-![image](https://github.com/kanishka2305/rl-policy-evaluation/assets/113497357/1e0f2b16-43bb-48c2-a3cf-2c1d27052137)
+![image](https://github.com/kanishka2305/rl-policy-evaluation/assets/113497357/99aabb3c-aa5b-4895-a08d-1f51427dc515)
 
 ### Comparison:
 
+![image](https://github.com/kanishka2305/rl-policy-evaluation/assets/113497357/aec02571-e24b-4f16-82a7-119435bb9825)
 
 
 
